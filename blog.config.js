@@ -2,7 +2,7 @@ const BLOG = {
   title: 'PIXELJOY',
   author: 'lanjoy',
   email: '461213513@qq.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'www.lanjooy.com.',
   description: '益生菌的像素',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
