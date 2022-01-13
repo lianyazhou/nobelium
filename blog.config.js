@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'PIXELJOY',
+  title: 'LANJOY',
   author: 'lanjoy',
   email: '461213513@qq.com',
   link: 'www.lanjooy.com.',
-  description: '益生菌的像素',
+  description: '像素',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
